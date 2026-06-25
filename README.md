@@ -48,6 +48,10 @@ pip install osmnx==2.1.0 geopandas==1.1.2 rasterio==1.5.0 rasterstats==0.20.0 li
 ```
 
 > **Note:** Using the exact versions above is strongly recommended to avoid dependency conflicts.
+> Or just run:
+```bash
+pip install requirements.txt
+```
 
 ### Step 2: Arrange the Folder
 
