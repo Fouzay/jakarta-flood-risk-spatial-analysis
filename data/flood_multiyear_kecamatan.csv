@@ -1,0 +1,89 @@
+subdistrict,total_flood_incidents,max_water_height_cm,total_evacuees,total_deaths
+Cakung,40,250.0,62.0,1.0
+Cempaka Putih,7,35.0,0.0,0.0
+Cengkareng,69,150.0,975.0,0.0
+Cilandak,54,200.0,504.0,0.0
+Ciliincing,6,110.0,27.0,0.0
+Cilincing,24,150.0,60.0,0.0
+Cipayung,35,150.0,7.0,0.0
+Ciracas,80,200.0,631.0,0.0
+Duren Sawit,24,170.0,17.0,0.0
+Gambir,3,30.0,0.0,0.0
+Grogol Petamburan,25,150.0,8.0,0.0
+Jagakarsa,34,300.0,360.0,0.0
+Jagakarta,1,10.0,0.0,0.0
+Jatinegara,139,350.0,2223.0,0.0
+Johar Baru,5,50.0,1.0,0.0
+Kali Deres,3,23.0,0.0,0.0
+Kalideres,32,200.0,100.0,0.0
+Kebayoran Baru,43,150.0,15.0,0.0
+Kebayoran Lama,73,190.0,92.0,0.0
+Kebon Jeruk,67,150.0,44.0,0.0
+"Kec, Pasar Minggu",2,80.0,0.0,0.0
+Kec. Cakung,4,40.0,0.0,0.0
+Kec. Cengkareng,14,80.0,2.0,0.0
+Kec. Cilandak,8,120.0,0.0,0.0
+Kec. Cilincing,9,50.0,0.0,0.0
+Kec. Ciracas,8,50.0,3.0,0.0
+Kec. Grogol Petamburan,4,60.0,0.0,0.0
+Kec. Jagakarsa,7,70.0,0.0,0.0
+Kec. Jatinegara,16,250.0,9.0,0.0
+Kec. Kali Deres,2,70.0,0.0,0.0
+Kec. Kalideres,5,80.0,0.0,0.0
+Kec. Kebayoran Baru,9,90.0,0.0,0.0
+Kec. Kebayoran Lama,10,75.0,0.0,0.0
+Kec. Kebon Jeruk,10,100.0,1.0,0.0
+Kec. Kelapa Gading,3,30.0,0.0,0.0
+Kec. Kembangan,11,110.0,2.0,0.0
+Kec. Koja,2,30.0,0.0,0.0
+Kec. Kramat Jati,7,170.0,5.0,0.0
+Kec. Makasar,11,100.0,1.0,0.0
+Kec. Mampang,1,40.0,0.0,0.0
+Kec. Mampang Prapatan,3,80.0,0.0,0.0
+Kec. Matraman,1,20.0,0.0,0.0
+Kec. Pademangan,1,30.0,0.0,0.0
+Kec. Palmerah,5,40.0,0.0,0.0
+Kec. Pancoran,10,250.0,3.0,0.0
+Kec. Pasar Minggu,13,220.0,0.0,0.0
+Kec. Pasar Rebo,3,60.0,0.0,0.0
+Kec. Penjaringan,10,50.0,0.0,0.0
+Kec. Senen,1,20.0,0.0,0.0
+Kec. Tambora,1,40.0,0.0,0.0
+Kec. Tanjung Priok,5,50.0,0.0,0.0
+Kec. Tebet,5,100.0,1.0,0.0
+Kec.Cilandak,1,80.0,0.0,0.0
+Kec.Kebayoran Baru,2,50.0,0.0,0.0
+Kec.Kebayoran Lama,2,50.0,0.0,0.0
+Kec.Kembangan,1,15.0,0.0,0.0
+Kec.Kramat Jati,3,120.0,0.0,0.0
+Kedoya Selatan,1,30.0,0.0,0.0
+Kelapa Gading,8,70.0,114.0,0.0
+Kemayoran,11,100.0,0.0,0.0
+Kembangan,54,150.0,59.0,0.0
+Kepulauan Seribu Selatan,4,50.0,0.0,0.0
+Kepulauan Seribu Utara,10,45.0,0.0,0.0
+Koja,13,80.0,141.0,0.0
+Kosong,2,,0.0,0.0
+Kramat Jati,132,360.0,3016.0,0.0
+Makasar,87,220.0,1626.0,0.0
+Makassar,1,30.0,0.0,0.0
+Mampang Prapatan,44,150.0,358.0,0.0
+Matraman,11,150.0,426.0,0.0
+Menteng,2,90.0,1.0,0.0
+Pademangan,8,50.0,5.0,0.0
+Palmerah,17,150.0,1.0,0.0
+Pancoran,63,300.0,3436.0,0.0
+Pasar Minggu,95,250.0,5487.0,0.0
+Pasar Rebo,41,160.0,1.0,0.0
+Penjaringan,37,150.0,17.0,0.0
+Pesanggrahan,56,200.0,81.0,0.0
+Pulo Gadung,13,150.0,8.0,0.0
+Pulogadung,1,50.0,0.0,0.0
+Sawah Besar,6,70.0,6.0,0.0
+Senen,3,50.0,0.0,0.0
+Setiabudi,11,150.0,5.0,0.0
+Taman Sari,6,50.0,0.0,0.0
+Tambora,2,50.0,0.0,0.0
+Tanah Abang,10,150.0,24.0,0.0
+Tanjung Priok,10,30.0,0.0,0.0
+Tebet,51,200.0,3411.0,0.0

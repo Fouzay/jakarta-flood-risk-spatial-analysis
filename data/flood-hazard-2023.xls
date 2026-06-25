@@ -1,0 +1,132 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+  </head >
+  <body>
+    
+    <table>
+      <thead>
+        <tr><th><b>periode_data</b></th><th><b>wilayah</b></th><th><b>kecamatan</b></th><th><b>kelurahan</b></th><th><b>nilai_indeks_bahaya_banjir</b></th><th><b>kategori_indeks_bahaya_banjir</b></th></tr>
+      </thead>
+      <tbody>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>CENGKARENG</td><td>CENGKARENG BARAT</td><td>1.8</td><td>SEDANG</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>CENGKARENG</td><td>CENGKARENG TIMUR</td><td>1.6</td><td>SEDANG</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>CENGKARENG</td><td>DURI KOSAMBI</td><td>1.8</td><td>SEDANG</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>CENGKARENG</td><td>KAPUK</td><td>1.6</td><td>SEDANG</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>CENGKARENG</td><td>KEDAUNG KALI ANGKE</td><td>1.6</td><td>SEDANG</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>CENGKARENG</td><td>RAWA BUAYA</td><td>2.2</td><td>TINGGI</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>GROGOL PETAMBURAN</td><td>GROGOL</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>GROGOL PETAMBURAN</td><td>JELAMBAR</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>GROGOL PETAMBURAN</td><td>JELAMBAR BARU</td><td>1.6</td><td>SEDANG</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>GROGOL PETAMBURAN</td><td>TANJUNG DUREN SELATAN</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>GROGOL PETAMBURAN</td><td>TANJUNG DUREN UTARA</td><td>1.6</td><td>SEDANG</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>GROGOL PETAMBURAN</td><td>TOMANG</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>KALIDERES</td><td>KAMAL</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>KALIDERES</td><td>SEMANAN</td><td>1.6</td><td>SEDANG</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>KALIDERES</td><td>TEGAL ALUR</td><td>1.8</td><td>SEDANG</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEBON JERUK</td><td>DURI KEPA</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEBON JERUK</td><td>KEBON JERUK</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEBON JERUK</td><td>KEDOYA SELATAN</td><td>1.6</td><td>SEDANG</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEBON JERUK</td><td>KEDOYA UTARA</td><td>1.8</td><td>SEDANG</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEBON JERUK</td><td>SUKABUMI UTARA</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEMBANGAN</td><td>JOGLO</td><td>1.6</td><td>SEDANG</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEMBANGAN</td><td>KEMBANGAN SELATAN</td><td>2</td><td>TINGGI</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEMBANGAN</td><td>KEMBANGAN UTARA</td><td>2</td><td>TINGGI</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEMBANGAN</td><td>MERUYA SELATAN</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>KEMBANGAN</td><td>MERUYA UTARA</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>PALMERAH</td><td>JATI PULO</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>PALMERAH</td><td>KOTA BAMBU UTARA</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMAN SARI</td><td>MANGGA BESAR</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMBORA</td><td>ANGKE</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA BARAT</td><td>TAMBORA</td><td>KERENDANG</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA PUSAT</td><td>KEMAYORAN</td><td>CEMPAKA BARU</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA PUSAT</td><td>KEMAYORAN</td><td>GUNUNG SAHARI SELATAN</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA PUSAT</td><td>MENTENG</td><td>KEBON SIRIH</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA PUSAT</td><td>SAWAH BESAR</td><td>MANGGA DUA SELATAN</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA PUSAT</td><td>SENEN</td><td>SENEN</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA PUSAT</td><td>TANAH ABANG</td><td>PETAMBURAN</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>CILANDAK</td><td>CILANDAK BARAT</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>CILANDAK</td><td>CIPETE SELATAN</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>CILANDAK</td><td>GANDARIA SELATAN</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>JAGAKARSA</td><td>CIGANJUR</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>JAGAKARSA</td><td>CIPEDAK</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>JAGAKARSA</td><td>LENTENG AGUNG</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>JAGAKARSA</td><td>TANJUNG BARAT</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN BARU</td><td>CIPETE UTARA</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN BARU</td><td>GANDARIA UTARA</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN BARU</td><td>MELAWAI</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN BARU</td><td>PETOGOGAN</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN BARU</td><td>PULO</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN LAMA</td><td>CIPULIR</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN LAMA</td><td>GROGOL SELATAN</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN LAMA</td><td>GROGOL UTARA</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>KEBAYORAN LAMA</td><td>KEBAYORAN LAMA UTARA</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>MAMPANG PRAPATAN</td><td>BANGKA</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>MAMPANG PRAPATAN</td><td>KUNINGAN BARAT</td><td>1.8</td><td>SEDANG</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>MAMPANG PRAPATAN</td><td>MAMPANG PRAPATAN</td><td>1.8</td><td>SEDANG</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>MAMPANG PRAPATAN</td><td>PELA MAMPANG</td><td>1.8</td><td>SEDANG</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PANCORAN</td><td>DUREN TIGA</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PANCORAN</td><td>KALIBATA</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PANCORAN</td><td>PANCORAN</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PANCORAN</td><td>RAWA JATI</td><td>2</td><td>TINGGI</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PASAR MINGGU</td><td>CILANDAK TIMUR</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PASAR MINGGU</td><td>JATI PADANG</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PASAR MINGGU</td><td>PEJATEN TIMUR</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PESANGGRAHAN</td><td>BINTARO</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PESANGGRAHAN</td><td>PETUKANGAN SELATAN</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PESANGGRAHAN</td><td>PETUKANGAN UTARA</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>PESANGGRAHAN</td><td>ULUJAMI</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>SETIA BUDI</td><td>KARET KUNINGAN</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>SETIA BUDI</td><td>KARET SEMANGGI</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>SETIA BUDI</td><td>KUNINGAN TIMUR</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>SETIA BUDI</td><td>SETIA BUDI</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>TEBET</td><td>KEBON BARU</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>TEBET</td><td>TEBET BARAT</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA SELATAN</td><td>TEBET</td><td>TEBET TIMUR</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CAKUNG</td><td>CAKUNG BARAT</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CAKUNG</td><td>CAKUNG TIMUR</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CAKUNG</td><td>JATINEGARA</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CAKUNG</td><td>PULO GEBANG</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIPAYUNG</td><td>BAMBU APUS</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIRACAS</td><td>CIBUBUR</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIRACAS</td><td>CIRACAS</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA TIMUR</td><td>CIRACAS</td><td>RAMBUTAN</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA TIMUR</td><td>DUREN SAWIT</td><td>DUREN SAWIT</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA TIMUR</td><td>DUREN SAWIT</td><td>PONDOK BAMBU</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA TIMUR</td><td>JATINEGARA</td><td>BIDARA CINA</td><td>2.4</td><td>TINGGI</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA TIMUR</td><td>JATINEGARA</td><td>KAMPUNG MELAYU</td><td>2.2</td><td>TINGGI</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA TIMUR</td><td>KRAMAT JATI</td><td>BALE KAMBANG</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA TIMUR</td><td>KRAMAT JATI</td><td>CAWANG</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA TIMUR</td><td>KRAMAT JATI</td><td>DUKUH</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA TIMUR</td><td>KRAMAT JATI</td><td>KRAMAT JATI</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA TIMUR</td><td>MAKASAR</td><td>CIPINANG MELAYU</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA TIMUR</td><td>MAKASAR</td><td>PINANG RANTI</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PASAR REBO</td><td>CIJANTUNG</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PULO GADUNG</td><td>JATINEGARA KAUM</td><td>1.6</td><td>SEDANG</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA TIMUR</td><td>PULO GADUNG</td><td>PISANGAN TIMUR</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA UTARA</td><td>CILINCING</td><td>CILINCING</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA UTARA</td><td>CILINCING</td><td>KALIBARU</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA UTARA</td><td>CILINCING</td><td>MARUNDA</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA UTARA</td><td>CILINCING</td><td>SEMPER BARAT</td><td>1.8</td><td>SEDANG</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA UTARA</td><td>CILINCING</td><td>SEMPER TIMUR</td><td>1.8</td><td>SEDANG</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA UTARA</td><td>CILINCING</td><td>SUKAPURA</td><td>1.8</td><td>SEDANG</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA UTARA</td><td>KELAPA GADING</td><td>KELAPA GADING BARAT</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA UTARA</td><td>KELAPA GADING</td><td>KELAPA GADING TIMUR</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA UTARA</td><td>KELAPA GADING</td><td>PEGANGSAAN DUA</td><td>1.6</td><td>SEDANG</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA UTARA</td><td>KOJA</td><td>LAGOA</td><td>1.6</td><td>SEDANG</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA UTARA</td><td>KOJA</td><td>RAWA BADAK SELATAN</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA UTARA</td><td>KOJA</td><td>TUGU UTARA</td><td>1.6</td><td>SEDANG</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA UTARA</td><td>PADEMANGAN</td><td>ANCOL</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA UTARA</td><td>PADEMANGAN</td><td>PADEMANGAN BARAT</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA UTARA</td><td>PADEMANGAN</td><td>PADEMANGAN TIMUR</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA UTARA</td><td>PENJARINGAN</td><td>KAMAL MUARA</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA UTARA</td><td>PENJARINGAN</td><td>PEJAGALAN</td><td>2.2</td><td>TINGGI</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA UTARA</td><td>PENJARINGAN</td><td>PENJARINGAN</td><td>1.8</td><td>SEDANG</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA UTARA</td><td>TANJUNG PRIOK</td><td>KEBON BAWANG</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA UTARA</td><td>TANJUNG PRIOK</td><td>SUNGAI BAMBU</td><td>1.4</td><td>RENDAH</td></tr>
+        <tr><td>2023</td><td>KOTA ADM. JAKARTA UTARA</td><td>TANJUNG PRIOK</td><td>TANJUNG PRIOK</td><td>1.4</td><td>RENDAH</td></tr>
+      </tbody>
+    </table>
+  
+  </body>
+</html >
